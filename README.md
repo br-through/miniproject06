@@ -1,2 +1,1 @@
-# miniproject06
-Mini Project 6
+# Library-Of-Congress-Search-Tool
